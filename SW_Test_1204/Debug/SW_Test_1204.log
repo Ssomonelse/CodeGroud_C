@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\hscom-015\documents\visual studio 2015\projects\codeground\sw_test_1204\main.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SW_Test_1204.vcxproj -> C:\Users\hscom-015\documents\visual studio 2015\Projects\CodeGround\Debug\SW_Test_1204.exe
+  SW_Test_1204.vcxproj -> C:\Users\hscom-015\documents\visual studio 2015\Projects\CodeGround\Debug\SW_Test_1204.pdb (Full PDB)
